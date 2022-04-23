@@ -1,12 +1,14 @@
 # audio-declipper
 
-
-The algorithm used is described in this paper: 
-</br>
-https://hal.archives-ouvertes.fr/hal-01002998/document
 This repo contains the following files: </br>
-	* Folder data image used in the inpainting problem.
-	* music.wav and speech.wav audio files used for the declipping problem.
-	* wavelet.py a python file that contains some functions from the numerical tours about 
-	  the wavelet transformation, and this python file will be used in the notebook and it is 
-	  mainly used to get a shorter notebook.
+	* data is a folder of the audios and image used.
+	* wavelet.py a python file that contains functions from the numerical tours about the wavelet transformation, and this python file will be used in the notebook and it is mainly used to get a shorter notebook. </br>
+
+The algorithm implemented is detailed in this paper:
+
+@inproceedings{IEEE
+International Conference on Acoustics, Speech and Signal Processing (ICASSP 2014),
+Author = {Kai Siedenburg, Matthieu Kowalski, Monika Dörfler.},
+Title = {Audio Declipping with Social Sparsity.},
+Year = {2014}
+}
