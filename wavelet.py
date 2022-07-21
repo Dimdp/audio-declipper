@@ -1,3 +1,6 @@
+"""
+These functions were taken from The numerical tours https://github.com/gpeyre/numerical-tours
+"""
 import numpy as np
 
 def perform_wavelet_transf(f, Jmin, dir, filter = "9-7",separable = 0, ti = 0):
