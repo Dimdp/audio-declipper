@@ -6,9 +6,9 @@ This repo contains the following files: </br>
 
 The declipping algorithm implemented is detailed in this paper:
 
-@inproceedings{IEEE
-International Conference on Acoustics, Speech and Signal Processing (ICASSP 2014),
-Author = {Kai Siedenburg, Matthieu Kowalski, Monika Dörfler},
-Title = {Audio Declipping with Social Sparsity},
-Year = {2014}
-}
+	@inproceedings{IEEE
+	International Conference on Acoustics, Speech and Signal Processing (ICASSP 2014),
+	Author = {Kai Siedenburg, Matthieu Kowalski, Monika Dörfler},
+	Title = {Audio Declipping with Social Sparsity},
+	Year = {2014}
+	}
